@@ -1,0 +1,18 @@
+.login{
+    background-image:url(background.png);
+    background-position: center;
+    background-size: cover;
+}
+#login_name{
+    background-color:darkred;
+    color: whitesmoke;
+    border-radius: 15%;
+    float: none;
+}
+#header{
+    color: whitesmoke;
+    font-family:'Dancing Script';
+}
+#user_name{
+    color:black;
+}
